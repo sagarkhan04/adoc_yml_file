@@ -1,0 +1,149 @@
+relativeUrl: bismillah
+slider:
+- title: পড়াশুনা হবে Bangla Fighter এর সাথে
+  subTitle: পলিটেকনিকের সকল বই ও তার সাজেশন সমূহ
+  actionName: সাজেশন ও সালের প্রশ্ন
+  actionUrl: technology
+  image: static-files/bismillah/study.jpg
+- title: শিখব, দক্ষ হব এবং সফলতা বয়ে আনব
+  subTitle: ইন্ডাস্ট্রিয়াল অ্যাটাস্টমেন্ট এবং ট্রেনিং এর জন্য আমাদের সাথে যোগাযোগ
+    করুন।
+  actionName: আবেদন করুন
+  actionUrl: contact
+  image: static-files/bismillah/lab.jpg
+- title: ক্লাসের পড়া বুজতে পারছি না
+  subTitle: আমাদের FB Group এবং YouTube Channel এ যোগদান করুন।
+  actionName: যোগদান করুন
+  exUrl: https://www.facebook.com/groups/banglafighter
+  image: static-files/bismillah/ask-question.jpg
+industrial:
+  name: ইন্ডাস্ট্রিয়াল অ্যাটাস্টমেন্ট
+  englishName: ( Industrial Attachment )
+  summery: ইন্ডাস্ট্রিয়াল অ্যাটাস্টমেন্ট ইন্ডাস্ট্রিয়াল অ্যাটাস্টমেন্ট ইন্ডাস্ট্রিয়াল
+    অ্যাটাস্টমেন্ট ইন্ডাস্ট্রিয়াল অ্যাটাস্টমেন্ট ইন্ডাস্ট্রিয়াল অ্যাটাস্টমেন্ট ইন্ডাস্ট্রিয়াল
+    অ্যাটাস্টমেন্ট ইন্ডাস্ট্রিয়াল অ্যাটাস্টমেন্ট ইন্ডাস্ট্রিয়াল অ্যাটাস্টমেন্ট
+  exUrl: /courses
+  registrationUrl: https://www.banglafighter.com/contact
+tiles:
+- name: পলিটেকনিক লিস্ট
+  englishName: ( Polytechnic List )
+  detailsLink: tech
+  nested:
+  - name: রংপুর পলিটেকনিক ইন্সটিটিউট
+    englishName: Rangpur Polytechnic Institute
+    image: static-files/bismillah/rpi-logo.jpg
+    tag: সরকারি
+    link: tech/rpir
+  - name: কুড়িগ্রাম পলিটেকনিক ইন্সটিটিউট
+    englishName: Kurigram Polytechnic Institute
+    image: static-files/bismillah/kpi-logo.png
+    tag: সরকারি
+    link: tech/kpik
+  - name: দিনাজপুর পলিটেকনিক ইনস্টিটিউট
+    englishName: Dinajpur Polytechnic Institute
+    image: static-files/bismillah/dinpi-logo.jpg
+    tag: সরকারি
+    link: tech/dnjpi
+  - name: চট্টগ্রাম পলিটেকনিক ইনস্টিটিউটট
+    englishName: Chittagong Polytechnic Institute
+    image: static-files/tech/ctgpi/logo.png
+    tag: সরকারি
+    link: tech/ctgpi
+  - name: ঢাকা পলিটেকনিক ইনস্টিটিউট
+    englishName: Dhaka Polytechnic Institute
+    image: static-files/bismillah/dhaka-logo.png
+    tag: সরকারি
+    link: tech/dpi
+  - name: রাজশাহী পলিটেকনিক ইনস্টিটিউট
+    englishName: Rajshahi Polytechnic Institute
+    image: static-files/bismillah/rajs-logo.png
+    tag: সরকারি
+    link: tech/rpi
+- name: বই সমূহ
+  englishName: ( Books )
+  detailsLink: book
+  nested:
+  - name: কম্পিউটার পেরিফেরালস অ্যান্ড ইন্টারফেসিং
+    englishName: Computer Peripherals And Interfacing
+    image: static-files/bismillah/yellow-book.png
+    link: technology/cst/66645/book
+  - name: পাইথন প্রোগ্রামিং
+    englishName: Python Programming
+    image: static-files/bismillah/yellow-book.png
+    tag: ''
+    link: technology/cst/26621/book
+  - name: সার্ভিলেন্স সিকিউরিটি সিস্টেম
+    englishName: Surveillance Security System
+    image: static-files/bismillah/yellow-book.png
+    tag: ''
+    link: technology/cst/26665/book
+  - name: ডাটা স্ট্রাকচার অ্যান্ড অ্যালগরিদম
+    englishName: Data Stracture and Algorithm
+    image: static-files/bismillah/yellow-book.png
+    tag: ''
+    link: technology/cst/66642/book
+  - name: অপারেটিং সিস্টেম
+    englishName: Operating System
+    image: static-files/bismillah/yellow-book.png
+    tag: ''
+    link: technology/cst/26655/book
+  - name: জাভা প্রোগ্রামিং
+    englishName: Java Programming
+    image: static-files/bismillah/yellow-book.png
+    tag: ''
+    link: technology/cst/26641/book
+- name: সাজেশন
+  englishName: ( Suggestion )
+  detailsLink: technology
+  defaultImage: static-files/bismillah/suggestion.jpg
+  nested:
+  - name: ডাটা স্ট্রাকচার অ্যান্ড অ্যালগরিদম
+    englishName: Data Structure & Algorithm
+    image: ''
+    tag: ''
+    link: technology/cst/66642/suggestion
+  - name: অপারেটিং সিস্টেম
+    englishName: Operating System
+    image: ''
+    tag: ''
+    link: technology/cst/26655/suggestion
+  - name: জাভা প্রোগ্রামিং
+    englishName: Java Programming
+    image: ''
+    tag: ''
+    link: technology/cst/26641/suggestion
+- name: টেকনোলজি
+  englishName: ( Technology )
+  detailsLink: technology
+  defaultImage: template-assets/img/technology-default.png
+  nested:
+  - name: কম্পিউটার সাইন্স অ্যান্ড টেকনোলজি
+    englishName: Computer Science and Technology
+    image: ''
+    tag: ''
+    link: technology/cst
+  - name: ইলেকট্রিক্যাল
+    englishName: Electrical
+    image: ''
+    tag: ''
+    link: technology/electrical
+  - name: সিভিল
+    englishName: Civil
+    image: ''
+    tag: ''
+    link: technology/civil
+  - name: মেকানিক্যাল
+    englishName: Mechanical
+    image: ''
+    tag: ''
+    link: technology/mechanical
+  - name: ইলেকট্রোনিক্স
+    englishName: Electronics
+    image: ''
+    tag: ''
+    link: technology/electronics
+  - name: পাওয়ার
+    englishName: Power
+    image: ''
+    tag: ''
+    link: technology/power

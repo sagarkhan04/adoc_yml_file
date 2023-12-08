@@ -1,0 +1,139 @@
+relativeUrl: course/python-and-django
+courseDetails:
+  image: static-files/bismillah/puthon.jpg
+  title: পাইথন এবং  জ্যাঙ্গো
+  button:
+  - title: কোর্সের মেয়াদ
+    subTitle: ৩ মাস
+  - title: ক্লাস টাইম
+    subTitle: ২ ঘণ্টা
+  - title: সাপ্তাহিক ক্লাস
+    subTitle: ৩ দিন
+  courseFee: ৳ ৮০০০
+  class: ৩৬ টি
+  video: থাকবে
+  language: বাংলা & English
+  time: ৭২ ঘণ্টা
+  buttonLink:
+  - button: ভর্তি হোন
+    link: contact
+  - button: ফ্রি সেমিনার
+    link: contact
+overView:
+  title: কোর্স ওভারভিউ
+  details: বর্তমান সময়ের সবচেয়ে চাহিদাসম্পন্ন প্রোগ্রামিং ল্যাংগুয়েজ হল পাইথন। 
+syllabus:
+- moduleName: Course Overview
+  topics:
+  - Understand the Course Outline
+  - Courseware Download
+  - Development Environment Setup
+- moduleName: HTML Basic
+  topics:
+  - HTML Basics Overview
+  - HTML Basic Structure
+  - HTML Basic Tagging
+  - Divs and Spans with HTML
+  - HTML Attributes
+  - Forms Basics
+  - Table
+- moduleName: CSS Basic
+  topics:
+  - Introduction to CSS
+  - Understanding ID, Class
+  - Text & Color
+  - Form Styling
+  - Table Styling
+- moduleName: Boostrap & Font
+  topics:
+  - Bootstrap Overview
+  - Bootstrap Integration
+  - Card, Grid, Forms, Button
+  - Table, Pagination, Dropdown
+  - List, Navbar, Colors
+  - Fontawesome Integration
+- moduleName: JavaScript
+  topics:
+  - Why need JavaScript?
+  - What is jQuery?
+  - JavaScript Basic
+  - Basic of jQuery
+  - Create Flash Message
+  - Remote URL call by Ajax
+  - Add jQuery Confirm
+  - Create various JS files for application
+- moduleName: Python Programming
+  topics:
+  - Python Basics Overview
+  - Python Data Types
+  - Numbers and Variables
+  - Strings
+  - Lists
+  - Dictionaries
+  - Tuples, Sets, and Booleans
+  - Comparison and Logical Operators
+  - If and Else Statements
+  - While Loops and For Loops
+  - Functions in Python
+- moduleName: Python Advance
+  topics:
+  - OOP Basic
+  - Decorators Overview
+  - Pip & PyPi Understanding
+  - Modules and Packages
+  - Virtual Environments
+- moduleName: Django Basics
+  topics:
+  - Django Setup
+  - Django Project
+  - URL Mappings
+  - Templates
+  - Django Static Files
+- moduleName: Django Model
+  topics:
+  - Django Models Overview
+  - Creating Models
+  - Population Scripts
+  - Models-Templates-Views Paradigm
+  - Project Exercise
+- moduleName: Django Form
+  topics:
+  - Django Forms
+  - Form Basics Code Along
+  - Form Validation
+  - Model Forms
+  - Model Forms Exercise
+- moduleName: Django Template
+  topics:
+  - Relative URLs with Templates
+  - Relative URLs Coding Examples
+  - URL Template Inheritance
+  - Template Inheritance Coding Example
+  - Template Filters and Custom Filters
+  - Template Filters Coding Examples
+- moduleName: Django User
+  topics:
+  - Django User overview
+  - Django Passwords
+  - User Models
+  - Registration
+  - Logins
+- moduleName: Django Debug Toolbar
+  topics:
+  - Introduction to Debug Toolbar
+  - Debug Toolbar Overview
+- moduleName: Customizing the Django Admin
+  topics:
+  - Introduction to Admin
+  - Admin Templates
+  - Ordering Fields
+  - Adding Search
+  - Adding Filters
+  - Adding Fields
+  - Editable List View
+- moduleName: Django Deployment
+  topics:
+  - Deployment Overview
+  - Gunicorn HTTP Server
+  - Deployment to Heroku
+  - Test frm Public URL

@@ -1,0 +1,64 @@
+relativeUrl: technology/cst/26665/year-question/2018
+question:
+  board: বাংলাদেশ কারিগরি শিক্ষা বোর্ড, ঢাকা
+  division: ডিপ্লোমা - ইন – ইঞ্জিনিয়ারিং
+  exam: ৫ম পর্ব সমাপনী পরীক্ষা -২০১৮
+  department: টেকনোলজিঃ কম্পিউটার , ( ২০১৬ প্রবিধান )
+  subject: 'বিষয় : সারভেইল্যান্স সিকিউরিটি সিস্টেম'
+  subjectCode: '( বিষয় কোড : ৬৬৬৫২  )'
+  time: 'সময় : ২ ঘণ্টা'
+  mark: 'পূর্ণমান : ৩০'
+  note: ক ও খ - বিভাগের সকল প্রশ্নের এবং গ - বিভাগের যে - কোনো ৩ ( তিন ) টি প্রশ্নের
+    উত্তর দাও ।
+  sections:
+  - title: ক-বিভাগ ( মানঃ ১ × ৭ = ৭)
+    questions:
+    - question: Surveillance system বলতে কী বুঝায়?
+      mark: ১
+      link: '#'
+    - question: Camera কী?
+      mark: ১
+      link: '#'
+    - question: NVR কী?
+      mark: ১
+      link: '#'
+    - question: Remote access কী ?
+      mark: ১
+      link: '#'
+    - question: Computer network কী?
+      mark: ১
+      link: '#'
+    - question: Network topology কী?
+      mark: ১
+      link: '#'
+    - question: IP কী?
+      mark: ১
+      link: '#'
+  - title: খ-বিভাগ ( মানঃ ২ × ৪ = ৮)
+    questions:
+    - question: Surveillance security system-এর বৈশিষ্ট্যগুলো লেখ।
+      mark: ২
+      link: '#'
+    - question: CCTV-এর উপাদানগুলো কী কী?
+      mark: ২
+      link: '#'
+    - question: DVR-এর Common interface গুলো কী কী?
+      mark: ২
+      link: '#'
+    - question: লেন্স-এর প্রকারভেদগুলোর নাম লেখ।
+      mark: ২
+      link: '#'
+  - title: গ-বিভাগ ( মানঃ ৩ × ৫ = ১৫)
+    questions:
+    - question: Surveillance system-এর Block diagram অঙ্কনপূর্বক বর্ণনা দাও।
+      mark: ৫
+      link: '#'
+    - question: বিভিন্ন প্রকার Attendance device-এর কাজ বর্ণনা কর।
+      mark: ৫
+      link: '#'
+    - question: Fiber optic cable-এর গঠন চিত্রসহ বর্ণনা কর।
+      mark: ৫
+      link: '#'
+    - question: Video signal ও Control signal transmission system-এর Block diagram অঙ্কনপূর্বক বর্ণনা দাও
+      mark: ৫
+      link: '#'
